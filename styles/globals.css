@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input {background-color: azure; border: 1px solid gray; padding: 0.5rem;}
